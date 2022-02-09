@@ -1,0 +1,8 @@
+bilangan bulat,
+bilangan desimal,
+
+input,
+output
+
+sintaks,
+semantik
